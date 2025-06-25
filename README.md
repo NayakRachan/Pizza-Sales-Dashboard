@@ -1,4 +1,4 @@
-# Pizza-Sales-Dashboard# Ski-dashboard
+# Pizza-Sales-Dashboard
 ## Recommended Structure and Order
 
 ### 1.🍕 Pizza Sales Insight Dashboard – Business Intelligence Report
